@@ -61,28 +61,31 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
-  - block: Wie funktioniert T39?
-    id: funktionieren
+  - block: features
+    id: features
     content:
-      title: Wie funktioniert T39?
-      text: Das T39 ist im Prinzip eine große WG mit 23 Bewohnern und ein paar Besonderheiten.
+      title: Features
+      text: Build your site with blocks 🧱
       items:
-        - name: Miete
+        - name: Optimized SEO
           icon: magnifying-glass
           description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Hausarbeiten
+        - name: Fast
           icon: bolt
           description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Doppelzimmer
+        - name: Easy
           icon: sparkles
           description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: Engagement
+        - name: No-Code
           icon: code-bracket
           description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Die Gemeinschaftsräume
+        - name: Highly Rated
           icon: star
           description: Rated 5-stars by the community.
-
+        - name: Swappable Blocks
+          icon: rectangle-group
+          description: Build your pages with blocks - no coding required!
+          
   - block: cta-image-paragraph
     id: solutions
     content:
