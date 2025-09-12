@@ -31,7 +31,7 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "navy"
+        color: "cyan"
         image:
           # Add your image background to `assets/media/`.
           filename: bg-triangles.svg
@@ -69,6 +69,7 @@ sections:
       items:
         - name: Miete
           icon: 
+            filename: dollar.png
           description: Formal ist die Evangelischen Kirche im Rheinland freier Träger des Gebäudes. Das bedeutet, die Kirche ist Eigentümer, verlangt aber keine Abgaben von uns. Weiter haben wir im Gegensatz zu anderen Wohnheimen keine Angestellten wie Reinigungsfachkräfte oder einen Hausmeister. Somit bleiben im wesentliche Grundbesitzabgaben an die Stadt Aachen und die Kosten für Wasser, Strom und Gas.
         - name: Hausarbeiten
           icon: 
