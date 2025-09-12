@@ -64,27 +64,24 @@ sections:
   - block: features
     id: features
     content:
-      title: Features
-      text: Build your site with blocks 🧱
+      title: Wie funktioniert T39?
+      text: Das T39 ist im Prinzip eine große WG mit 23 Bewohnern und ein paar Besonderheiten.
       items:
-        - name: Optimized SEO
+        - name: Miete
           icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+          description: Formal ist die Evangelischen Kirche im Rheinland freier Träger des Gebäudes. Das bedeutet, die Kirche ist Eigentümer, verlangt aber keine Abgaben von uns. Weiter haben wir im Gegensatz zu anderen Wohnheimen keine Angestellten wie Reinigungsfachkräfte oder einen Hausmeister. Somit bleiben im wesentliche Grundbesitzabgaben an die Stadt Aachen und die Kosten für Wasser, Strom und Gas.
+        - name: Hausarbeiten
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+          description: Wie bereits im vergangenen Abschnitt erwähnte, gibt es weder bezahlte Reinigungskräfte, Hausmeister, noch einen Vermieter im herkömmlichen Sinne. Das T39 ist selbstverwaltet, was in Nordrhein-Westfalen einzigartig ist. Dadurch haben wir eine Menge Freiheiten, die zwangsläufig auch mit Verpflichtungen einhergehen. Dazu wird zu Beginn jedes Semesters eine Hausverwaltung aus drei Mitbewohnern gewählt, die Aufgaben verteilt und sich um die Belange des Hauses kümmert.
+        - name: Doppelzimmer
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
+          description: Eine weitere wissenswerte Eigenart des T39 sind die Doppelzimmer im Erdgeschoss. Jeder Neuzugang wohnt für die erste Zeit im Doppelzimmer und zieht erst später in ein Einzelzimmer in eine der oberen Etagen. Obwohl viele Menschen anfangs überrascht darauf reagieren, hat sich dies bis heute bewährt. Die Bewohner haben so die Möglichkeit, in Sachen Gemeinschaft vieles zu lernen. Wichtig sind hier Flexibilität und Sensibilität im Umgang mit anderen Menschen. Dies ist auch der Geist, der als Grundidee über dem T39 schwebt und den enormen Zusammenhalt ausmacht. Die Miete im Doppelzimmer beträgt zurzeit 96 Euro.
+        - name: Engagement
           icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
+          description: Prinzipiell fallen im T39 verschiedenste Aufgaben an. Wird beispielsweise eine Renovierung beschlossen, werden Ideen gesammelt, die Ausführung und Materialbeschaffung geplant und schlussendlich die Renovierung umgesetzt. Ausserdem gibt es dauerhafte Aufgaben wie die Server Administration oder die Verantwortung für einen der Gemeinschaftsräume. Jeder kann also seine Ideen, Stärken und Projekte umsetzen. Wir freuen uns auf deine.
+        - name: Die Gemeinschaftsräume
           icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
-          icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: Das T39 besteht natürlich nicht nur aus Einzel- und Doppelzimmern. Als Gemeinschaftsräume haben wir unser Wohnzimmer, die Küche und unseren kleinen Garten zur Verfügung. Hier entstehen gemeinschaftliche Aktionen, wie z.B. gemeinsames Kochen, abendliches Zusammensitzen und verschiedene gemeinsam organisierte Feten, wie die jährlich stattfindenden Feuerzangenbowle und Cocktailparty.
           
   - block: cta-image-paragraph
     id: solutions
