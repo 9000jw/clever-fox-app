@@ -5,9 +5,9 @@
 
 # Appearance
 appearance:
-  mode: light
-  color: indigo
-
+  mode: system
+  color: cyan
+  
 # SEO
 marketing:
   seo:
