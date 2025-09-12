@@ -68,7 +68,7 @@ sections:
       text: Das T39 ist im Prinzip eine große WG mit 23 Bewohnern und ein paar Besonderheiten.
       items:
         - name: Miete
-          icon: house
+          icon: magnifying-glass
           description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
         - name: Hausarbeiten
           icon: bolt
