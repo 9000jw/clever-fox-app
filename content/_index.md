@@ -128,12 +128,13 @@ sections:
       spacing:
         # Reduce bottom spacing so the testimonial appears vertically centered between sections
         padding: ["6rem", 0, 0, 0]
+
   - block: cta-card
     content:
-      title: Build your future-proof website
-      text: As easy as 1, 2, 3!
+      title: Bewirb jetzt
+      text: und wird Teil des T39!
       button:
-        text: Get Started
+        text: Los geht's
         url: https://hugoblox.com/templates/
     design:
       card:
