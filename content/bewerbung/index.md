@@ -21,7 +21,7 @@ sections:
 
   - block: markdown
     content:
-      title: "Was wir Dir bieten"
+      title: "Dein Profil"
       text: |
           - Du bist aufgeschlossen und hast Lust auf das WG-Leben.
           - Du zeigst Interesse an deinen Mitbewohnern und ziehst nicht nur dein eigenes Ding durch. Das T39 ist kein Hotel
