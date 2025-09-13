@@ -1,5 +1,5 @@
 ---
-title: Terms of Service
+title: term of service
 date: 2023-12-01
 share: false
 ---
