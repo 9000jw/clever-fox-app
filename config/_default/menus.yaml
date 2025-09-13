@@ -15,9 +15,6 @@ main:
   - name: Events
     url: /#solutions
     weight: 40
-  - name: Resources
+  - name: Events
     weight: 50
-    hasChildren: true
-  - parent: Resources
-    name: Blog
     url: blog/
