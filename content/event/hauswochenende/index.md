@@ -1,6 +1,6 @@
 ---
 title: Hauswochenende
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+summary: Jedes Jahr zu Beginn des Wintersemesters kehren wir Aachen für ein Wochenende den Rücken und Mieten uns ein Ferienhaus im Grünen. Ob Wandern, Zusammensitzen oder Sport, das Programm ist jedem selbst überlassen.
 date: 2023-10-23
 authors:
   - admin
@@ -8,7 +8,7 @@ tags:
   - Hugo Blox
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  filename: hauswochenende.jpg
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
