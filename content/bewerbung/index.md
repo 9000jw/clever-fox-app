@@ -36,11 +36,22 @@ sections:
       title: Interesse?
       text: dann fülle bitte das nachfolgend aufgeführte Bewerbungsformular aus (nur mit dem, was du preisgeben möchtest). Wenn du möchtest, füge noch einen Lebenslauf an und schick uns bitte das Ganze an unsere E-Mailadresse hv@t39.rwth-aachen.de.
       button:
-        text: "Bewerbungsformular Herunterladen"
+        text: "Bewerbungsformular"
+        icon: hero/arrow-down-tray
         url: uploads/bewerbung.pdf # file link funktioniert nicht, keine Ahnung warum
     design:
       card:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+  - block: markdown
+    content:
+      title: 
+      text: |
+          {{% callout note %}}
+          A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
+          {{% /callout %}}
+      background:
+        color: "white"
+      
 ---

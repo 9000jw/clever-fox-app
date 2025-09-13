@@ -11,6 +11,7 @@ sections:
   - block: hero
     content:
       title: Templergraben 39
+      icon: custum/T39 logo
       text: Evangelisches Studentenwohnheim
       primary_action:
         text: Bewirb dich fürs Wohnheim
