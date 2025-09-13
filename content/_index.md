@@ -135,7 +135,7 @@ sections:
       text: und wird Teil des T39!
       button:
         text: Los geht's
-        url: https://hugoblox.com/templates/
+        url: bewerbung/
     design:
       card:
         # Card background color (CSS class)
