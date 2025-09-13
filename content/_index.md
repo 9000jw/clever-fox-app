@@ -80,7 +80,26 @@ sections:
         - name: Die Gemeinschaftsräume
           icon: "custom/dollar"
           description: Das T39 besteht natürlich nicht nur aus Einzel- und Doppelzimmern. Als Gemeinschaftsräume haben wir unser Wohnzimmer, die Küche und unseren kleinen Garten zur Verfügung. Hier entstehen gemeinschaftliche Aktionen, wie z.B. gemeinsames Kochen, abendliches Zusammensitzen und verschiedene gemeinsam organisierte Feten, wie die jährlich stattfindenden Feuerzangenbowle und Cocktailparty.
-
+  - block: experience
+    content:
+        work:
+        - position: Director of Cloud Infrastructure
+        company_name: GenCoin
+        company_url: ''
+        company_logo: ''
+        date_start: 2021-01-01
+        date_end: ''
+        summary: |2-
+          Responsibilities include:
+          - lorem ipsum dolor sit amet, consectetur adipiscing elit
+          - lorem ipsum dolor sit amet, consectetur adipiscing elit
+          - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
   - block: resume-experience
     content:
       title: "Experience"
