@@ -7,7 +7,7 @@ main:
     url: /#top
     weight: 10
   - name: Historie
-    url: historie/
+    url: /#historie
     weight: 20
   - name: Hausarbeiten
     url: /#solutions
