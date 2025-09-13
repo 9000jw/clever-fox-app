@@ -15,7 +15,7 @@ sections:
       text: dann fülle bitte das nachfolgend aufgeführte Bewerbungsformular aus (nur mit dem, was du preisgeben möchtest). Wenn du möchtest, füge noch einen Lebenslauf an und schick uns bitte das Ganze an unsere E-Mailadresse hv@t39.rwth-aachen.de.
       button:
         text: "Herunterladen"
-        url: static/uploads/Bewerbung T39.pdf
+        url: uploads/Bewerbung T39.pdf
     design:
       card:
         # Card background color (CSS class)
