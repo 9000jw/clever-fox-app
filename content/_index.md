@@ -11,7 +11,6 @@ sections:
   - block: hero
     content:
       title: Templergraben 39
-      icon: custum/T39 logo
       text: Evangelisches Studentenwohnheim
       primary_action:
         text: Bewirb dich fürs Wohnheim
@@ -43,16 +42,16 @@ sections:
       items:
         - statistic: "23"
           description: |
-            Mitbewohner*innen
+            Mitbewohnis
         - statistic: "75+"
           description: |
-            Jahre Tradition der Selbstverwaltung
-        - statistic: "unter 200€"
+            Jahre Selbstverwaltung
+        - statistic: "bis 200€"
           description: |
-            Miete monätlich
+            Miete
     design:
       # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
+      css_class: "bg-cornflowerblue-100 dark:bg-gray-900"
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
