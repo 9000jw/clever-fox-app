@@ -10,8 +10,7 @@ design:
 sections:
   - block: markdown
     content:
-      title: "Bewerbung"
-      subtitle: "Was wir Dir bieten"
+      title: "Was wir Dir bieten"
       text: |
           - Eine ganz besondere Riesen-WG-Atmosphäre.
           - Teilzuhaben am einzigartigen Projekt "selbstverwaltetes Wohnheim".
@@ -22,8 +21,7 @@ sections:
 
   - block: markdown
     content:
-      title: "Bewerbung"
-      subtitle: "Was wir Dir bieten"
+      title: "Was wir Dir bieten"
       text: |
           - Du bist aufgeschlossen und hast Lust auf das WG-Leben.
           - Du zeigst Interesse an deinen Mitbewohnern und ziehst nicht nur dein eigenes Ding durch. Das T39 ist kein Hotel
