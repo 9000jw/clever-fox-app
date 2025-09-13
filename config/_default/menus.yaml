@@ -17,7 +17,7 @@ main:
     weight: 40
   - name: Events
     weight: 50
-    url: blog/
+    url: event/
   - name: Bewerbung
     weight: 60
     url: bewerbung/
