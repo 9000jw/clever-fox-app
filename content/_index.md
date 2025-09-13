@@ -59,7 +59,7 @@ sections:
   - block: features
     id: features
     content:
-      title: Wie funktioniert T39?
+      title: Wie funktioniert das T39?
       text: Das T39 ist im Prinzip eine große WG mit 23 Bewohnern und ein paar Besonderheiten.
       items:
         - name: Miete
@@ -90,20 +90,17 @@ sections:
       # Education or Experience section first?
       is_education_first: false
 
-  - block: testimonials
+  - block: collection
     content:
-      title: ""
-      text: ""
-      items:
-        - name: "Hugo Smith"
-          role: "Marketing Executive at X"
-          # Upload image to `assets/media/` and reference the filename here
-          image: "testimonial-1.jpg"
-          text: "Awesome, so easy to use and saved me so much work with the swappable pre-designed sections!"
+      title: "Recent Posts"
+      subtitle: "Latest updates from our blog"
+      text: "Stay up to date with our latest news and insights"
+      filters:
+        - "hausarbeiten"
+      count: 3
     design:
-      spacing:
-        # Reduce bottom spacing so the testimonial appears vertically centered between sections
-        padding: ["6rem", 0, 0, 0]
+      view: "card"
+      columns: "3"
 
   - block: cta-card
     content:
