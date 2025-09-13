@@ -1,7 +1,7 @@
 ---
 title: Privacy
 date: 2023-12-01
-share: false
+share: true
 
 
 design:
@@ -10,7 +10,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      title: "Experience"
+      title: "Die Geschichte des blauen Haus"
       items:
         - title: "Senior Developer"
           company: "Tech Company"
