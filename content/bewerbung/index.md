@@ -31,7 +31,6 @@ sections:
           - Du bist eingeschriebene/r Student/in.
           - Du bist bereit, dich selbständig und eigenverantwortlich fär das Haus zu engagieren, auch wenn dies über deine normalen Pflichten hinausgehen sollte. Das T39 lebt davon, dass sich jeder einbringt und auch mal mehr macht als unbedingt notwendig.
           - Du kannst dich gut auf Deutsch verständigen.
-
       background:
         color: "white"
   - block: cta-card
