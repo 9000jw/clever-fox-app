@@ -40,7 +40,7 @@ header:
     button:
       enable: true
       text: "Internes"
-      url: "intern/"
+      url: "internes/"
     show_search: true
     show_theme_chooser: true
 

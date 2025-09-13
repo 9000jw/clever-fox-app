@@ -13,17 +13,17 @@ sections:
       title: Templergraben 39
       text: Evangelisches Studentenwohnheim
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: weiter
+        url: /#stats
         icon: rocket-launch
       secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+        text: Bewirb dich fürs Wohnheim
+        url: bewerbung/
       announcement:
-        text: "Announcing the release of version 1."
+        text: "Du suchst nach dem Internportal?"
         link:
-          text: "Read more"
-          url: "/blog/"
+          text: "Los"
+          url: "/internes"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -34,13 +34,14 @@ sections:
         color: "cyan"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
+          filename: hauswochenende.jpg
           filters:
             brightness: 0.5
           size: cover
           position: center
           parallax: false
   - block: stats
+    id: stats
     content:
       items:
         - statistic: "23"
