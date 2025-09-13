@@ -94,9 +94,8 @@ sections:
   - block: markdown
     id: hausarbeiten
     content:
-      <div class="card-header">Header</div>
-      <div class="card-body">Content</div>
-      <div class="card-footer">Footer</div>
+      title: hausarbeiten
+      text: test
     design:
       css-class: "dark"
 
