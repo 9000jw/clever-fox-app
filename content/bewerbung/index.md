@@ -1,5 +1,5 @@
 ---
-title: Bewerbung
+title: Cocktailparty
 summary: Use popular tools such as Plotly, Mermaid, and data frames.
 date: 2023-10-25
 authors:
@@ -11,13 +11,6 @@ tags:
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
-Dein Profil
-Du bist aufgeschlossen und hast Lust auf das WG-Leben.
-Du zeigst Interesse an deinen Mitbewohnern und ziehst nicht nur dein eigenes Ding durch. Das T39 ist kein Hotel
-Du bist bereit dich für das Wohnheim einzusetzen und deinen Anteil der regelmäßig anfallenden Hausarbeiten gerne und gewissenhaft zu übernehmen.
-Du bist eingeschriebene/r Student/in.
-Du bist bereit, dich selbständig und eigenverantwortlich fär das Haus zu engagieren, auch wenn dies über deine normalen Pflichten hinausgehen sollte. Das T39 lebt davon, dass sich jeder einbringt und auch mal mehr macht als unbedingt notwendig.
-Du kannst dich gut auf Deutsch verständigen.
 
 Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.
 
