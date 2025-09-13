@@ -8,7 +8,7 @@ tags:
   - Hugo Blox
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  filename: hauswochenende.jpg
 ---
 
 Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!

@@ -114,7 +114,7 @@ sections:
       text: und wird Teil des T39!
       button:
         text: Los geht's
-        url: bewerbung.md
+        url: bewerbung/
     design:
       card:
         # Card background color (CSS class)
