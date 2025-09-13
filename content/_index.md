@@ -81,25 +81,25 @@ sections:
           icon: "custom/dollar"
           description: Das T39 besteht natürlich nicht nur aus Einzel- und Doppelzimmern. Als Gemeinschaftsräume haben wir unser Wohnzimmer, die Küche und unseren kleinen Garten zur Verfügung. Hier entstehen gemeinschaftliche Aktionen, wie z.B. gemeinsames Kochen, abendliches Zusammensitzen und verschiedene gemeinsam organisierte Feten, wie die jährlich stattfindenden Feuerzangenbowle und Cocktailparty.
           
-  - block: collection
-    id: section-1
+  - block: cta-image-paragraph
     content:
-        title: Section 1
-        subtitle: A subtitle
-        text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-        # Display content from the `content/post/` folder
-        filters:
-          folders:
-            - post
-        design:
-        # Choose how many columns the section has. Valid values: '1' or '2'.
-          columns: '1'
-        # Choose your content listing view - here we use the `showcase` view
-          view: showcase
-        # For the Showcase view, do you want to flip alternate rows?
-          flip_alt_rows: true
-
-  - block: resume-experience
+      items:
+        -
+          name: "First Item"
+          description: "Description for first item"
+        -
+          name: "Second Item"
+          description: "Description for second item"
+    design:
+      background:
+        color: ""
+        # gradient_start: "#4f46e5"
+        # gradient_end: "#7c3aed"
+        # text_color_light: true
+      # spacing:
+      #   padding: ["6", "6", "6", "6"]
+      # columns: "1"
+  - block: cta-image-paragraph
     content:
       title: "Experience"
       items:
