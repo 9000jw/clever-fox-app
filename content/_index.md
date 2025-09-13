@@ -84,7 +84,8 @@ sections:
 
   - block: experience
     content:
-      username: admin
+      title: "Historie des T39"
+      username: t39
     design:
       # Hugo date format
       date_format: 'January 2006'

@@ -31,17 +31,15 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Gründung in den 50er Jahren
+    company_name: ''
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: ''
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      1950 ist das T39 ein normales Mietshaus, dass hauptsächlich von Studenten bewohnt wird. Zu der Zeit schließt die Evangelische Kirche, dank der Eigeninitiative der damaligen Mieter (die ersten Bewohner des T39), mit dem damaligem Vermieter einen Vertrag über eine zwölfjährige Miete für den ersten, zweiten und den dritten Stock ab, wo diverse Einzelzimmer, Doppelzimmer und ein Gemeinschaftsräume entstehen.
+      Im Jahr 1954 ging der damalige Vermieter in Privatinsolvenz und das Haus wurde Zwangsversteigert. Die Evangelische Kirche entschloss sich dazu, die Immobilie zu erwerben und bekam bei der Versteigerung 1956 den Zuschuss. Das T39 ging für 7000 DM und 3000 DM Gebühren in den Besitz der Landeskirche über.
   - position: Backend Software Engineer
     company_name: X
     company_url: ''
