@@ -51,7 +51,8 @@ sections:
             Miete
     design:
       # Section background color (CSS class)
-      css_class: "bg-primary-700 dark"
+      css_class: "bg-primary-700"
+      text_color_light: true
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
@@ -95,7 +96,7 @@ sections:
     id: hausarbeiten
     content:
       title: hausarbeiten
-      text: test
+      text: tes
     design:
       css-class: "dark"
 
