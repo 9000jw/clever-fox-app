@@ -90,17 +90,15 @@ sections:
       # Education or Experience section first?
       is_education_first: false
 
-  - block: collection
+# here comes a collection of hausarbeiten
+  - block: markdown
+    id: hausarbeiten
     content:
-      title: "Recent Posts"
-      subtitle: "Latest updates from our blog"
-      text: "Stay up to date with our latest news and insights"
-      filters:
-        - "hausarbeiten"
-      count: 3
+      <div class="card-header">Header</div>
+      <div class="card-body">Content</div>
+      <div class="card-footer">Footer</div>
     design:
-      view: "card"
-      columns: "3"
+      css-class: "dark"
 
   - block: cta-card
     content:
