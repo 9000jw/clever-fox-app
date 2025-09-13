@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "3rem"
 
 sections:
   - block: markdown
@@ -49,7 +49,9 @@ sections:
       title: 
       text: |
           {{% callout note %}}
-          A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
+          Bewerbungen, die nicht auf unserem Pflicht-Bewerbungsformular abgegeben und nicht auf Deutsch geschrieben wurden, werden nicht berücksichtigt.
+
+          Nach einer Vorauswahl werden einige Bewerber/innen zum Bewerbungsgespräch eingeladen, wo auch die freien Zimmer besichtigt werden können. Wenn wir dich einladen, erhalten alle Mitbewohner deine Bewerbung, um dich schon mal etwas kennenzulernen. Nach den Bewerbungsgesprächen entscheidet die Hausverwaltung, an wen die Zimmer vergeben werden. Über diese Entscheidung werden die Bewerber/innen per E-Mail informiert. Bei uns gibt es keine Warteliste.
           {{% /callout %}}
       background:
         color: "white"
