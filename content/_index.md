@@ -83,8 +83,9 @@ sections:
 
 
   - block: experience
+    id: historie
     content:
-      title: "Historie des T39"
+      title: Historie des T39
       username: t39
     design:
       # Hugo date format
