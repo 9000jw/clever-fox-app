@@ -81,32 +81,27 @@ sections:
           icon: "custom/dollar"
           description: Das T39 besteht natürlich nicht nur aus Einzel- und Doppelzimmern. Als Gemeinschaftsräume haben wir unser Wohnzimmer, die Küche und unseren kleinen Garten zur Verfügung. Hier entstehen gemeinschaftliche Aktionen, wie z.B. gemeinsames Kochen, abendliches Zusammensitzen und verschiedene gemeinsam organisierte Feten, wie die jährlich stattfindenden Feuerzangenbowle und Cocktailparty.
 
-  - block: resume-biography-3
-    id: historie
+  - block: resume-experience
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      text: ""
-      # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: 
+      title: "Experience"
+      items:
+        - title: "Senior Developer"
+          company: "Tech Company"
+          location: "San Francisco, CA"
+          date_start: "2020-01-01"
+          date_end: ""
+          description: |
+            * Led development of key features
+            * Mentored junior developers
+            * Improved system performance by 40%
+        - title: "Software Engineer"
+          company: "Startup Inc"
+          location: "New York, NY"
+          date_start: "2018-06-01"
+          date_end: "2019-12-31"
+          description: "Developed web applications using modern technologies"
     design:
-      css_class: dark
-      # Avatar customization
-      avatar:
-        size: medium  # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: false
+      columns: "1"
 
   - block: testimonials
     content:
