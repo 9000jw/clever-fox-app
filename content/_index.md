@@ -27,7 +27,7 @@ sections:
       # For full-screen, add `min-h-screen` below
       css_class: "dark"
       background:
-        color: "cyan"
+        color: "indigo"
         image:
           # Add your image background to `assets/media/`.
           filename: blaueshaus.jpg
@@ -51,7 +51,7 @@ sections:
             Miete
     design:
       # Section background color (CSS class)
-      css_class: "bg-cornflowerblue-100 dark:bg-gray-900"
+      css_class: "bg-blue-100 dark:bg-gray-900"
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
