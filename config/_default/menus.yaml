@@ -10,7 +10,7 @@ main:
     url: /#historie
     weight: 20
   - name: Hausarbeiten
-    url: /#solutions
+    url: hausarbeiten/
     weight: 30
   - name: Events
     url: /#solutions
