@@ -4,8 +4,6 @@ date: 2023-12-01
 share: false
 ---
 
-**Hausarbeiten**
-
 <div class="accordion" id="myAccordion">
   <div class="accordion-item">
     <h2 class="accordion-header" id="heading1">
