@@ -10,7 +10,7 @@ design:
 sections:
   - block: hero
     content:
-      title: Templergraben 38
+      title: Templergraben 39
       text: Evangelisches Studentenwohnheim
       primary_action:
         text: Bewirb dich fürs Wohnheim
