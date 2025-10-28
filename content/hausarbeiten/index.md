@@ -4,84 +4,47 @@ date: 2023-12-01
 share: false
 ---
 
+<<<<<<< HEAD
 **Hausarbeiten**
 
 <div class="accordion" id="myAccordion">
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="heading1">
-      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapse1">
-        Item 1
-      </button>
-    </h2>
-    <div id="collapse1" class="accordion-collapse collapse show" data-bs-parent="#myAccordion">
-      <div class="accordion-body">
-        Content for item 1 goes here.
-      </div>
-    </div>
-  </div>
+=======
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="p-4">
 
+<div class="accordion" id="testAccordion">
+>>>>>>> parent of 6e9c99d (Merge branch 'main' into pr/1)
   <div class="accordion-item">
-    <h2 class="accordion-header" id="heading2">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse2">
-        Item 2
+    <h2 class="accordion-header" id="h1">
+      <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#c1">
+        Test 1
       </button>
     </h2>
-    <div id="collapse2" class="accordion-collapse collapse" data-bs-parent="#myAccordion">
-      <div class="accordion-body">
-        Content for item 2 goes here.
-      </div>
+    <div id="c1" class="accordion-collapse collapse show" data-bs-parent="#testAccordion">
+      <div class="accordion-body">Body 1</div>
     </div>
   </div>
-
   <div class="accordion-item">
-    <h2 class="accordion-header" id="heading3">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse3">
-        Item 3
+    <h2 class="accordion-header" id="h2">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#c2">
+        Test 2
       </button>
     </h2>
-    <div id="collapse3" class="accordion-collapse collapse" data-bs-parent="#myAccordion">
-      <div class="accordion-body">
-        Content for item 3 goes here.
-      </div>
+    <div id="c2" class="accordion-collapse collapse" data-bs-parent="#testAccordion">
+      <div class="accordion-body">Body 2</div>
     </div>
   </div>
-
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="heading4">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse4">
-        Item 4
-      </button>
-    </h2>
-    <div id="collapse4" class="accordion-collapse collapse" data-bs-parent="#myAccordion">
-      <div class="accordion-body">
-        Content for item 4 goes here.
-      </div>
-    </div>
-  </div>
-
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="heading5">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse5">
-        Item 5
-      </button>
-    </h2>
-    <div id="collapse5" class="accordion-collapse collapse" data-bs-parent="#myAccordion">
-      <div class="accordion-body">
-        Content for item 5 goes here.
-      </div>
-    </div>
-  </div>
-
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="heading6">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse6">
-        Item 6
-      </button>
-    </h2>
-    <div id="collapse6" class="accordion-collapse collapse" data-bs-parent="#myAccordion">
-      <div class="accordion-body">
-        Content for item 6 goes here.
-      </div>
-    </div>
-  </div>
+<<<<<<< HEAD
 </div>
+=======
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+>>>>>>> parent of 6e9c99d (Merge branch 'main' into pr/1)
