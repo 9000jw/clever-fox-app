@@ -80,10 +80,10 @@ sections:
           description: Das T39 besteht natürlich nicht nur aus Einzel- und Doppelzimmern. Als Gemeinschaftsräume haben wir unser Wohnzimmer, die Küche und unseren kleinen Garten zur Verfügung. Hier entstehen gemeinschaftliche Aktionen, wie z.B. gemeinsames Kochen, abendliches Zusammensitzen und verschiedene gemeinsam organisierte Feten, wie die jährlich stattfindenden Feuerzangenbowle und Cocktailparty.
 
 
-  - block: experience
+  - block: features
     id: historie
     content:
-      title: "Historie des T39"
+      title: Historie
       username: t39
     design:
       # Hugo date format
@@ -91,6 +91,24 @@ sections:
       # Education or Experience section first?
       is_education_first: false
 
+  - block: cta-image-paragraph
+    content:
+      items:
+        -
+          name: "First Item"
+          description: "Description for first item"
+        -
+          name: "Second Item"
+          description: "Description for second item"
+    design:
+      background:
+        color: ""
+        # gradient_start: "#4f46e5"
+        # gradient_end: "#7c3aed"
+        # text_color_light: true
+      # spacing:
+      #   padding: ["6", "6", "6", "6"]
+      # columns: "1"
 # here comes a collection of hausarbeiten
   - block: markdown
     id: hausarbeiten
