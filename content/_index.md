@@ -48,7 +48,7 @@ sections:
             Gemeinschaft
     design:
       # Section background color (CSS class)
-      css_class: "bg-primary text-white"
+      css_class: "bg-primary-700 text-white"
 
       columns: "3"
       # Reduce spacing
@@ -66,7 +66,7 @@ sections:
           description: "Support"
     design:
       background:
-        color: "gray-900"
+        css_class: "bg-primary-700"
         text_color_light: true
       columns: "3"
 
