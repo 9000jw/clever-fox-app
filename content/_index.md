@@ -55,7 +55,20 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
 
-  
+  - block: stats
+    content:
+      items:
+        - statistic: "50K+"
+          description: "Happy Users"
+        - statistic: "99.9%"
+          description: "Uptime"
+        - statistic: "24/7"
+          description: "Support"
+    design:
+      background:
+        color: "gray-900"
+        text_color_light: true
+      columns: "3"
 
   - block: features
     id: features
