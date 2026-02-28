@@ -6,7 +6,9 @@
 # Appearance
 appearance:
   mode: system
-  color: blue
+
+theme:
+  name: t39 blue theme
   
 # SEO
 marketing:

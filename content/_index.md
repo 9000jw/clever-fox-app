@@ -49,11 +49,13 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-primary text-white"
-      css_style: "background-color: var(--color-primary) !important;"
+
       columns: "3"
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
+
+  
 
   - block: features
     id: features
