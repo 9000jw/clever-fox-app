@@ -48,9 +48,7 @@ sections:
             Gemeinschaft
     design:
       # Section background color (CSS class)
-      background:
-        color: "sky"
-
+      css_class: "bg-primary text-white"
       columns: "3"
       # Reduce spacing
       spacing:
@@ -121,6 +119,6 @@ sections:
     design:
       background:
         # Card background color (CSS class)
-        color: "sky"
-        spacing:
+        color: primary
+
 ---
