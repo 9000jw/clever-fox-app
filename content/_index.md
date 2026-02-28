@@ -43,13 +43,13 @@ sections:
         - statistic: "75+"
           description: |
             Jahre Selbstverwaltung
-        - statistic: "bis 200€"
+        - statistic: "100%"
           description: |
-            Miete
+            Gemeinschaft
     design:
       # Section background color (CSS class)
       background:
-        color: "blue-900"
+        color: "sky"
         text_color_light: true
       columns: "3"
       # Reduce spacing
@@ -79,24 +79,27 @@ sections:
           description: Das T39 besteht natürlich nicht nur aus Einzel- und Doppelzimmern. Als Gemeinschaftsräume haben wir unser Wohnzimmer, die Küche und unseren kleinen Garten zur Verfügung. Hier entstehen gemeinschaftliche Aktionen, wie z.B. gemeinsames Kochen, abendliches Zusammensitzen und verschiedene gemeinsam organisierte Feten, wie die jährlich stattfindenden Feuerzangenbowle und Cocktailparty.
 
 
-  - block: resume-experience
-    id: historie
-    content:
-      title: Historie
-      username: t39
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
+ 
 
-
-# here comes a collection of hausarbeiten
+# history timeline of T39
   - block: markdown
-    id: hausarbeiten
+    id: historietest
     content:
-      title: hausarbeiten
-      text: tes
+      title: Historie des T39
+      text: |- 
+        **Gründung in den 50er Jahren**
+        1950 ist das T39 ein normales Mietshaus, dass hauptsächlich von Studenten bewohnt wird. Zu der Zeit schließt die Evangelische Kirche, dank der Eigeninitiative der damaligen Mieter (die ersten Bewohner des T39), mit dem damaligem Vermieter einen Vertrag über eine zwölfjährige Miete für den ersten, zweiten und den dritten Stock ab, wo diverse Einzelzimmer, Doppelzimmer und ein Gemeinschaftsräume entstehen.
+
+        **Entwicklung des T39**
+        Nach der Gründung entwickelte sich das T39 dank der Bewohner rasant. Dank vieler Sachspenden und Finanzhilfen konnten sofort nach dem Erwerb des Wohnheims die ersten Renovierungs- und Umbauarbeiten erfolgen. In den folgenden Jahren bis heute fanden zahlreiche weitere Renovierungen statt.
+        Im Jahre 1962 fand das erste Hauswochenende in Domburg in Holland statt, eine gemeinsamer Kurzurlaub aller Bewohner ausserhalb von Aachen. Diese Tradition hält sich bis heute.
+        Eine weitere Tradition, die sich bis heute hält fand 30 Jahre später im Jahre 1992 ihren Anfang. In diesem Jahr wurden zu ersten Mal im Sommer eine Cocktailparty und als Gegengewicht im Winter die große Feuerzangenbowle veranstaltet. Diese Events werden seitdem Jahr für Jahr im T39 gefeiert.
+        Seine charakteristische blaue Farbe erhielt das T39 erst im Jahre 1997. Zwei Jahre später startete mit dem Anschluss an das Hochschulnetz die digitale Revolution. Unseren ökologischen Fußabdruck konnten wir mit der Installation einer Solarthermieanlage auf unserem Dach im Jahr 2009 verbessern.
+        Im Jahr 1954 ging der damalige Vermieter in Privatinsolvenz und das Haus wurde Zwangsversteigert. Die Evangelische Kirche entschloss sich dazu, die Immobilie zu erwerben und bekam bei der Versteigerung 1956 den Zuschuss. Das T39 ging für 7000 DM und 3000 DM Gebühren in den Besitz der Landeskirche über.
+
+        **Das T39 heute**
+        Die Tatsache, dass das T39 allein von den Bewohnern verwaltet wird, ist in Nordrhein-Westfalen einzigartig. Das bedeutet für die Bewohner die Chance, eigenständig Entscheidungen zu treffen, Ideen zu verwirklichen und somit die Entwicklung einer eigenen Persönlichkeit.
+        Damit das T39 weiter bestehen kann, sind Eigeninitiative und Verantwortung aller Bewohner für sich selbst und für die ganze Gemeinschaft unbedingt erforderlich. Anfallende Arbeiten sollen natürlich nicht nur widerwillig erledigt werden. Aus diesem Grund sind größere Aufgaben in Gruppen aufgeteilt und werden nach Fertigstellung in der Regel gefeiert.
     design:
       css-class: "dark"
 
