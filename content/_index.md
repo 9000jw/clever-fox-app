@@ -107,15 +107,15 @@ sections:
         Die Tatsache, dass das T39 allein von den Bewohnern verwaltet wird, ist in Nordrhein-Westfalen einzigartig. Das bedeutet für die Bewohner die Chance, eigenständig Entscheidungen zu treffen, Ideen zu verwirklichen und somit die Entwicklung einer eigenen Persönlichkeit.
         Damit das T39 weiter bestehen kann, sind Eigeninitiative und Verantwortung aller Bewohner für sich selbst und für die ganze Gemeinschaft unbedingt erforderlich. Anfallende Arbeiten sollen natürlich nicht nur widerwillig erledigt werden. Aus diesem Grund sind größere Aufgaben in Gruppen aufgeteilt und werden nach Fertigstellung in der Regel gefeiert.
     design:
-      columns: '1'
       spacing:
-          margin: 1 rem
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
 
-  - block: cta-card
+  - block: hero
     content:
       title: Bewirb dich jetzt
       text: und wird Teil des T39!
-      button:
+      primary_action:
         text: Los geht's
         url: bewerbung/
     design:
@@ -124,5 +124,4 @@ sections:
         css_class: "bg-primary-700"
         css_style: ""
         spacing:
-          margin: 2 rem
 ---
