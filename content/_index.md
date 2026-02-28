@@ -15,11 +15,7 @@ sections:
       primary_action:
         text: Bewirb dich fürs Wohnheim
         url: bewerbung/
-      announcement:
-        text: "Du suchst nach dem Internportal?"
-        link:
-          text: "hier"
-          url: "/internes"
+      
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -36,6 +32,7 @@ sections:
           size: cover
           position: center
           parallax: false
+          
   - block: stats
     id: stats
     content:
@@ -51,8 +48,10 @@ sections:
             Miete
     design:
       # Section background color (CSS class)
-      css_class: "bg-primary-700"
-      text_color_light: true
+      background:
+        color: "blue-900"
+        text_color_light: true
+      columns: "3"
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
