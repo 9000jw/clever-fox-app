@@ -18,7 +18,7 @@ share: false
 <body class="p-4">
 
 <div class="accordion" id="testAccordion">
->>>>>>> parent of 6e9c99d (Merge branch 'main' into pr/1)
+
   <div class="accordion-item">
     <h2 class="accordion-header" id="h1">
       <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#c1">
@@ -39,7 +39,7 @@ share: false
       <div class="accordion-body">Body 2</div>
     </div>
   </div>
-<<<<<<< HEAD
+
 </div>
 =======
 </div>
@@ -47,4 +47,4 @@ share: false
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
->>>>>>> parent of 6e9c99d (Merge branch 'main' into pr/1)
+
