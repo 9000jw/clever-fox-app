@@ -48,11 +48,12 @@ sections:
     id: bewerbung
     content:
       items:
-        - title: Interesse?
+        - title: Hinweis zur Bewerbung
           text: Schick gerne das aufgefüllte Bewerbungsformular ggf. mit einem Lebenslauf an hv@t39.rwth-aachen.de.
           features_icon: information-circle
           features:
-            - Bewerbungen, die nicht auf unserem Pflicht-Bewerbungsformular abgegeben und nicht auf Deutsch geschrieben wurden, werden nicht berücksichtigt.  
+            - Bewerbungen, die nicht auf unserem Pflicht-Bewerbungsformular abgegeben und nicht auf Deutsch geschrieben wurden, werden nicht berücksichtigt.
+            
             - Nach einer Vorauswahl werden einige Bewerber/innen zum Bewerbungsgespräch eingeladen, wo auch die freien Zimmer besichtigt werden können. Wenn wir dich einladen, erhalten alle Mitbewohner deine Bewerbung, um dich schon mal etwas kennenzulernen. Nach den Bewerbungsgesprächen entscheidet die Hausverwaltung, an wen die Zimmer vergeben werden. Über diese Entscheidung werden die Bewerber/innen per E-Mail informiert. Bei uns gibt es keine Warteliste.
           # Upload image to `assets/media/` and reference the filename here
           image: bluefassade.jpg
@@ -60,34 +61,4 @@ sections:
             text: "Bewerbungsformular"
             icon: "arrow-down-tray"
             url: bewerbung.pdf
-
-  - block: cta-card
-    content:
-      title: Interesse?
-      text: dann fülle bitte das Bewerbungsformular aus (nur mit dem, was du preisgeben möchtest). Wenn du möchtest, füge einen Lebenslauf an und schick uns bitte das Ganze an  hv@t39.rwth-aachen.de.
-      button:
-        text: "Bewerbungsformular"
-        icon: "arrow-down-tray"
-        url: bewerbung.pdf
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
-
-  - block: markdown
-    content:
-      title: 
-      text: |
-          {{% callout note %}}
-          Bewerbungen, die nicht auf unserem Pflicht-Bewerbungsformular abgegeben und nicht auf Deutsch geschrieben wurden, werden nicht berücksichtigt.
-
-          Nach einer Vorauswahl werden einige Bewerber/innen zum Bewerbungsgespräch eingeladen, wo auch die freien Zimmer besichtigt werden können. Wenn wir dich einladen, erhalten alle Mitbewohner deine Bewerbung, um dich schon mal etwas kennenzulernen. Nach den Bewerbungsgesprächen entscheidet die Hausverwaltung, an wen die Zimmer vergeben werden. Über diese Entscheidung werden die Bewerber/innen per E-Mail informiert. Bei uns gibt es keine Warteliste.
-          {{% /callout %}}
-      background:
-        color: "white"
-        spacing:
-          margin: 0 rem
-          padding: 0 rem
-      
 ---
