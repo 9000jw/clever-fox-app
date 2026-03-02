@@ -14,10 +14,10 @@ sections:
               icon: "envelope"
             - text: "Hausinternes Wiki"
               url: "/business"
-              icon: "brands/nextcloud"
+              icon: brands/nextcloud
             - text: "Nextcloud"
               url: "/students"
-              icon: "brands/wikipedia"
+              icon: brands/wikipedia
       design:
         columns: "3"
         css-class: "bg-primary-500"
