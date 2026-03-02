@@ -30,16 +30,19 @@ sections:
               - Du bist bereit, dich selbständig und eigenverantwortlich fär das Haus zu engagieren, auch wenn dies über deine normalen Pflichten hinausgehen sollte. Das T39 lebt davon, dass sich jeder einbringt und auch mal mehr macht als unbedingt notwendig.
               - Du kannst dich gut auf Deutsch verständigen.
       design:
-        view: article-grid
         columns: 2
         spacing:
           padding: 2 rem
-        container: fixed
-        align: center
         css_class: "dark"
         background:
-          color: "sky"
+          color: "indigo"
           image: 
+            filename: bluefassade.jpg
+            filters:
+              brightness: 0.5
+            size: cover
+            position: center
+            parallax: true
 
   - block: cta-card
     content:
