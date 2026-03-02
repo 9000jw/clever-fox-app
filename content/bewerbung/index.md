@@ -10,8 +10,10 @@ design:
 sections:
   - block: features
     content:
+      title: "Schön, dass du interessiert bist!"
       items:
         - name: "Was wir Dir bieten"
+          icon: hero/sparkles
           description: |
               - Eine ganz besondere Riesen-WG-Atmosphäre.
               - Teilzuhaben am einzigartigen Projekt "selbstverwaltetes Wohnheim".
@@ -19,6 +21,7 @@ sections:
               - Die Möglichkeit viele nette Menschen aller möglichen Nationalitäten und Konfessionen kennenzulernen.
 
         - name: "Dein Profil"
+          icon: hero/user
           description: |
               - Du bist aufgeschlossen und hast Lust auf das WG-Leben.
               - Du zeigst Interesse an deinen Mitbewohnern und ziehst nicht nur dein eigenes Ding durch. Das T39 ist kein Hotel
