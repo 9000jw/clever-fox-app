@@ -63,6 +63,5 @@ sections:
             url: bewerbung.pdf
     design:
       background:
-        css_class: "bg-primary-700 text-white"
-        text_color_light: true
+        color: 
 ---
