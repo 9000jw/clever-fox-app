@@ -48,9 +48,7 @@ sections:
             Gemeinschaft
     design:
       # Section background color (CSS class)
-      background:
-        gradient_mesh:
-          enable: true
+      css_class: "bg-primary-700 text-white"
       columns: "3"
       # Reduce spacing
       spacing:
@@ -106,6 +104,7 @@ sections:
 
         Die Tatsache, dass das T39 allein von den Bewohnern verwaltet wird, ist in Nordrhein-Westfalen einzigartig. Das bedeutet für die Bewohner die Chance, eigenständig Entscheidungen zu treffen, Ideen zu verwirklichen und somit die Entwicklung einer eigenen Persönlichkeit.
         Damit das T39 weiter bestehen kann, sind Eigeninitiative und Verantwortung aller Bewohner für sich selbst und für die ganze Gemeinschaft unbedingt erforderlich. Anfallende Arbeiten sollen natürlich nicht nur widerwillig erledigt werden. Aus diesem Grund sind größere Aufgaben in Gruppen aufgeteilt und werden nach Fertigstellung in der Regel gefeiert.
+
   
   - block: hero
     content:

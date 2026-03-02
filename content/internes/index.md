@@ -21,9 +21,7 @@ sections:
       design:
         columns: "3"
         view: card
-        buttons:
+        card:
             css-class: "bg-primary-500"
-            gradient_mesh:
-            enable: true
 
 ---
