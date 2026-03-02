@@ -9,17 +9,18 @@ sections:
         title: "Choose Your Path"
         text: "Multiple ways to get started with our platform"
         buttons:
-            - text: "For Researchers"
+            - text: "Webmailers"
               url: "/researchers"
-              icon: "academic-cap"
-            - text: "For Businesses"
+              icon: "envelope"
+            - text: "Hausinternes Wiki"
               url: "/business"
-              icon: "building-office"
-            - text: "For Students"
+              icon: "brands/nextcloud"
+            - text: "Nextcloud"
               url: "/students"
-              icon: "book-open"
+              icon: "brands/wikipedia"
       design:
         columns: "3"
+        css-class: "bg-primary-500"
         background:
             color: "blue-50"
 
