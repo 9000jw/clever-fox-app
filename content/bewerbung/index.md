@@ -37,8 +37,8 @@ sections:
       text: dann fülle bitte das Bewerbungsformular aus (nur mit dem, was du preisgeben möchtest). Wenn du möchtest, füge einen Lebenslauf an und schick uns bitte das Ganze an  hv@t39.rwth-aachen.de.
       button:
         text: "Bewerbungsformular"
-        icon: download
-        url: bewerbung.pdf # file link funktioniert nicht, keine Ahnung warum
+        icon: arrow-down-tray
+        url: bewerbung.pdf
     design:
       card:
         # Card background color (CSS class)
