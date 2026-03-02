@@ -36,7 +36,9 @@ sections:
           padding: 2 rem
         container: fixed
         align: center
-        css-class: "row-cols-1 row-cols-md-2 justify-content-center"
+        css_class: "dark"
+        background:
+          color: "sky"
 
   - block: cta-card
     content:
