@@ -39,6 +39,7 @@ sections:
         css_class: "dark"
         background:
           color: "sky"
+          image: 
 
   - block: cta-card
     content:
