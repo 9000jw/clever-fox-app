@@ -54,21 +54,6 @@ sections:
       spacing:
         padding: ["1rem", 0, "1rem", 0]
 
-  - block: stats
-    content:
-      items:
-        - statistic: "50K+"
-          description: "Happy Users"
-        - statistic: "99.9%"
-          description: "Uptime"
-        - statistic: "24/7"
-          description: "Support"
-    design:
-      background:
-        css_class: "bg-primary-700"
-        text_color_light: true
-      columns: "3"
-
   - block: features
     id: features
     content:
@@ -132,8 +117,6 @@ sections:
         text: Los geht's
         url: bewerbung/
     design:
-      background:
-        # Card background color (CSS class)
-        color: primary
+      css-class: "bg-primary-600"
 
 ---
