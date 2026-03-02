@@ -38,7 +38,7 @@ sections:
       button:
         text: "Bewerbungsformular"
         icon: hero/arrow-down-tray
-        url: static/uploads/bewerbung.pdf # file link funktioniert nicht, keine Ahnung warum
+        url: /workspaces/clever-fox-app/static/uploads/bewerbung.pdf # file link funktioniert nicht, keine Ahnung warum
     design:
       card:
         # Card background color (CSS class)
