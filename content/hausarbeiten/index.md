@@ -7,11 +7,10 @@ sections:
 - block: cta-image-paragraph
   content:
       items:
-        - name: "First Item"
-          description: "Description for first item"
-        -
-          name: "Second Item"
-          description: "Description for second item"
+      - name: "First Item"
+        description: "Description for first item"
+      - name: "Second Item"
+        description: "Description for second item"
   design:
     background:
       color: ""
