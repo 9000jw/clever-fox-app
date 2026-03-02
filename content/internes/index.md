@@ -20,8 +20,10 @@ sections:
               icon: "fa-brands fa-nextcloud"
       design:
         columns: "3"
-        css-class: "bg-primary-500"
-        background:
-            color: "blue-50"
+        view: card
+        buttons:
+            css-class: "bg-primary-500"
+            gradient_mesh:
+            enable: true
 
 ---

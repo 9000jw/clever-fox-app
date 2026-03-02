@@ -30,6 +30,7 @@ sections:
               - Du bist bereit, dich selbständig und eigenverantwortlich fär das Haus zu engagieren, auch wenn dies über deine normalen Pflichten hinausgehen sollte. Das T39 lebt davon, dass sich jeder einbringt und auch mal mehr macht als unbedingt notwendig.
               - Du kannst dich gut auf Deutsch verständigen.
       design:
+        view: article-grid
         columns: 2
         spacing:
           margin: 2 rem
@@ -50,6 +51,7 @@ sections:
         # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
+
   - block: markdown
     content:
       title: 

@@ -108,25 +108,6 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
-
-  - block: hero
-    content:
-      title: Bewirb dich jetzt
-      text: und wird Teil des T39!
-      primary_action:
-        text: Los geht's
-        url: bewerbung/
-    design:
-      background:
-        color: "indigo"
-        image:
-          # Add your image background to `assets/media/`.
-          filename: blaueshaus.jpg
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
   
   - block: hero
     content:
@@ -146,11 +127,11 @@ sections:
         color: "indigo"
         image:
           # Add your image background to `assets/media/`.
-          filename: blaueshaus.jpg
+          filename: gruppenfoto hv.jpg
           filters:
             brightness: 0.5
           size: cover
           position: center
-          parallax: false
+          parallax: true
 
 ---
