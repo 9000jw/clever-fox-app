@@ -94,13 +94,11 @@ sections:
     id: historie
     content:
       title: Historie des T39
-      image:
-        filename: Versteigerung.jpg
       text: |- 
         <h2>Gründung in den 50er Jahren</h2>  
 
         1950 ist das T39 ein normales Mietshaus, dass hauptsächlich von Studenten bewohnt wird. Zu der Zeit schließt die Evangelische Kirche, dank der Eigeninitiative der damaligen Mieter (die ersten Bewohner des T39), mit dem damaligem Vermieter einen Vertrag über eine zwölfjährige Miete für den ersten, zweiten und den dritten Stock ab, wo diverse Einzelzimmer, Doppelzimmer und ein Gemeinschaftsräume entstehen.
-        
+        ![Alt text](Versteigerung.jpg)
         <img src="Versteigerung.jpg" alt="versteigerung" width="800" />
 
         <h2>Entwicklung des T39</h2>  
