@@ -49,7 +49,6 @@ sections:
     design:
       # Section background color (CSS class)
       css_class: "bg-primary-700 text-white"
-
       columns: "3"
       # Reduce spacing
       spacing:
