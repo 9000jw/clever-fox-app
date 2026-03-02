@@ -10,8 +10,6 @@ design:
 sections:
   - block: hero
     content:
-      image: 
-        filename: T39logow.svg
       title: Templergraben 39
       text: Evangelisches Studentenwohnheim
       primary_action:
@@ -142,5 +140,7 @@ sections:
           size: cover
           position: center
           parallax: true
+      button:
+        size: large
 
 ---
