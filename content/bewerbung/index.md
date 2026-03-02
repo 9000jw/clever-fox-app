@@ -34,11 +34,11 @@ sections:
   - block: cta-card
     content:
       title: Interesse?
-      text: dann fülle bitte das nachfolgend aufgeführte Bewerbungsformular aus (nur mit dem, was du preisgeben möchtest). Wenn du möchtest, füge noch einen Lebenslauf an und schick uns bitte das Ganze an unsere E-Mailadresse hv@t39.rwth-aachen.de.
+      text: dann fülle bitte das Bewerbungsformular aus (nur mit dem, was du preisgeben möchtest). Wenn du möchtest, füge einen Lebenslauf an und schick uns bitte das Ganze an  hv@t39.rwth-aachen.de.
       button:
         text: "Bewerbungsformular"
-        icon: hero/arrow-down-tray
-        url: /workspaces/clever-fox-app/static/uploads/bewerbung.pdf # file link funktioniert nicht, keine Ahnung warum
+        icon: download
+        url: bewerbung.pdf # file link funktioniert nicht, keine Ahnung warum
     design:
       card:
         # Card background color (CSS class)
