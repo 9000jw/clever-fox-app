@@ -31,7 +31,7 @@ sections:
             brightness: 0.5
           size: cover
           position: center
-          parallax: false
+          parallax: true
           
   - block: stats
     id: stats
@@ -53,6 +53,10 @@ sections:
       # Reduce spacing
       spacing:
         padding: ["1rem", 0, "1rem", 0]
+      background:
+        gradient_mesh:
+          enable: true
+
 
   - block: features
     id: features
