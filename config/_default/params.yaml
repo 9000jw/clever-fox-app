@@ -7,7 +7,8 @@
 appearance:
   mode: system
   
-
+appearance:
+  color: "sky"
 theme:
     pack: "default"
 
@@ -15,11 +16,11 @@ theme:
 # SEO
 marketing:
   seo:
-    site_type: Person
+    site_type: organization
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo landing page theme powered by Hugo Blox website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'T39'
+    description: 'Wir sind ein selbstverwaltetes Studentenwohnheim in Aachen Zentrum, sind bekannt für die einzigartige blaue Fassade.'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -40,7 +41,7 @@ header:
     logo:
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "T39 logo.svg"
+      filename: "T39logo.svg"
     button:
       enable: true
       text: "Internes"
@@ -50,10 +51,11 @@ header:
 
 # Site footer
 footer:
+  style: minimal
   copyright:
-    notice: '© {year} My Company'
+    notice: '© 2026 Templergraben 39 Evaganlisches Studentenwohnheim'
 
 # Localization
 locale:
   date_format: '2 Jan, 2006'
-  time_format: '3:04 PM'
+  time_format: '15:04'
