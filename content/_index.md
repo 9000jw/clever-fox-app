@@ -32,6 +32,9 @@ sections:
           size: cover
           position: center
           parallax: true
+        gradient_mesh:
+          enable: true
+
           
   - block: stats
     id: stats
