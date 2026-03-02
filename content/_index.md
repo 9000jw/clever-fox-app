@@ -126,5 +126,30 @@ sections:
           size: cover
           position: center
           parallax: false
+  
+  - block: hero
+    content:
+      title: Bewirb dich jetzt
+      text: und wird Teil des T39!
+      primary_action:
+        text: Los geht's
+        url: bewerbung/
+      
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+        margin: [0, 0, 0, 0]
+      # For full-screen, add `min-h-screen` below
+      css_class: "dark"
+      background:
+        color: "indigo"
+        image:
+          # Add your image background to `assets/media/`.
+          filename: blaueshaus.jpg
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: false
 
 ---
