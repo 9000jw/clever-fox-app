@@ -23,8 +23,7 @@ sections:
               icon: "cloud"
       design:
         background:
-          css_class: "dark"
-          color: "primary"
+          css_class: "bg-primary-700 text-white"
           text_color_light: true
 
 ---
