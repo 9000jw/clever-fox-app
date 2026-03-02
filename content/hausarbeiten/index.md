@@ -5,10 +5,9 @@ share: false
 type: landing
 sections:
 - block: cta-image-paragraph
-    content:
+  content:
       items:
-        -
-          name: "First Item"
+        - name: "First Item"
           description: "Description for first item"
         -
           name: "Second Item"
