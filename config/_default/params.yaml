@@ -6,14 +6,12 @@
 # Appearance
 appearance:
   mode: system
+  
 
 theme:
     pack: "default"
-    colors:
-      primary: "indigo"      # Main brand color
-      secondary: "emerald"   # Accent color
-      neutral: "slate" 
-      
+
+
 # SEO
 marketing:
   seo:
