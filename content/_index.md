@@ -98,8 +98,7 @@ sections:
         <h2>Gründung in den 50er Jahren</h2>  
 
         1950 ist das T39 ein normales Mietshaus, dass hauptsächlich von Studenten bewohnt wird. Zu der Zeit schließt die Evangelische Kirche, dank der Eigeninitiative der damaligen Mieter (die ersten Bewohner des T39), mit dem damaligem Vermieter einen Vertrag über eine zwölfjährige Miete für den ersten, zweiten und den dritten Stock ab, wo diverse Einzelzimmer, Doppelzimmer und ein Gemeinschaftsräume entstehen.
-        ![Alt text](Versteigerung.jpg)
-        <img src="Versteigerung.jpg" alt="versteigerung" width="800" />
+        ![Versteigerung](Versteigerung.jpg)
 
         <h2>Entwicklung des T39</h2>  
 
@@ -108,7 +107,7 @@ sections:
         Eine weitere Tradition, die sich bis heute hält fand 30 Jahre später im Jahre 1992 ihren Anfang. In diesem Jahr wurden zu ersten Mal im Sommer eine Cocktailparty und als Gegengewicht im Winter die große Feuerzangenbowle veranstaltet. Diese Events werden seitdem Jahr für Jahr im T39 gefeiert.
         Seine charakteristische blaue Farbe erhielt das T39 erst im Jahre 1997. Zwei Jahre später startete mit dem Anschluss an das Hochschulnetz die digitale Revolution. Unseren ökologischen Fußabdruck konnten wir mit der Installation einer Solarthermieanlage auf unserem Dach im Jahr 2009 verbessern.
         Im Jahr 1954 ging der damalige Vermieter in Privatinsolvenz und das Haus wurde Zwangsversteigert. Die Evangelische Kirche entschloss sich dazu, die Immobilie zu erwerben und bekam bei der Versteigerung 1956 den Zuschuss. Das T39 ging für 7000 DM und 3000 DM Gebühren in den Besitz der Landeskirche über.
-        <img src="blue fassade.jpg" alt="versteigerung" width="800" />
+        ![das blaues Haus](blue fassade.jpg)
 
         <h2>Das T39 heute</h2>  
 
