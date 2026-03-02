@@ -10,14 +10,14 @@ sections:
         text: "Multiple ways to get started with our platform"
         buttons:
             - text: "Webmailers"
-              url: "/researchers"
+              url: ""
               icon: "envelope"
             - text: "Hausinternes Wiki"
-              url: "/business"
-              icon: brands/nextcloud
+              url: ""
+              icon: "fa-brands fa-wikipedia-w"
             - text: "Nextcloud"
-              url: "/students"
-              icon: brands/wikipedia
+              url: ""
+              icon: "fa-brands fa-nextcloud"
       design:
         columns: "3"
         css-class: "bg-primary-500"

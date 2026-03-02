@@ -99,7 +99,7 @@ sections:
 
 # history timeline of T39
   - block: markdown
-    id: historietest
+    id: historie
     content:
       title: Historie des T39
       text: |- 

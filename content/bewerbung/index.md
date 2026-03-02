@@ -31,7 +31,6 @@ sections:
               - Du kannst dich gut auf Deutsch verständigen.
       design:
         columns: "2"
-        css-class: "bg-primary-200"
         spacing:
           margin: 2 rem
         container: fixed
@@ -43,7 +42,7 @@ sections:
       text: dann fülle bitte das Bewerbungsformular aus (nur mit dem, was du preisgeben möchtest). Wenn du möchtest, füge einen Lebenslauf an und schick uns bitte das Ganze an  hv@t39.rwth-aachen.de.
       button:
         text: "Bewerbungsformular"
-        icon: arrow-down-tray
+        icon: "arrow-down-tray"
         url: bewerbung.pdf
     design:
       card:
