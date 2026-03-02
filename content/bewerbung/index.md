@@ -5,7 +5,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "2rem"
 
 sections:
   - block: features
@@ -33,7 +33,7 @@ sections:
         view: article-grid
         columns: 2
         spacing:
-          margin: 2 rem
+          padding: 2 rem
         container: fixed
         align: center
         css-class: "row-cols-1 row-cols-md-2 justify-content-center"
@@ -63,5 +63,8 @@ sections:
           {{% /callout %}}
       background:
         color: "white"
+        spacing:
+          margin: 0 rem
+          padding: 2 rem
       
 ---
