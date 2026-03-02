@@ -8,9 +8,12 @@ appearance:
   mode: system
 
 theme:
-  mode: system
-  pack: "synthwave"
-  
+    pack: "default"
+    colors:
+      primary: "indigo"      # Main brand color
+      secondary: "emerald"   # Accent color
+      neutral: "slate" 
+      
 # SEO
 marketing:
   seo:
