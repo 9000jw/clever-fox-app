@@ -61,4 +61,8 @@ sections:
             text: "Bewerbungsformular"
             icon: "arrow-down-tray"
             url: bewerbung.pdf
+    design:
+      background:
+        color: '#1e212c'
+        text_color_light: true
 ---

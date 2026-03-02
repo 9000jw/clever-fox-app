@@ -140,7 +140,5 @@ sections:
           size: cover
           position: center
           parallax: true
-      button:
-        size: large
 
 ---
