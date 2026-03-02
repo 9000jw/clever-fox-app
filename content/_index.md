@@ -116,7 +116,8 @@ sections:
       primary_action:
         text: Los geht's
         url: bewerbung/
-    background:
+    design:
+      background:
         color: "indigo"
         image:
           # Add your image background to `assets/media/`.
