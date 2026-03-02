@@ -48,7 +48,9 @@ sections:
             Gemeinschaft
     design:
       # Section background color (CSS class)
-      css_class: "bg-primary-700 text-white"
+      background:
+        gradient_mesh:
+          enable: true
       columns: "3"
       # Reduce spacing
       spacing:
