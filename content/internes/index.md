@@ -23,6 +23,8 @@ sections:
               icon: "cloud"
       design:
         buttons:
-          color: "indigo"
+          css_class: "dark"
+          color: '#1f4979'
+          text_color_light: true
 
 ---
