@@ -64,6 +64,6 @@ sections:
     design:
       background:
         css_class: "dark"
-        color: '#1f4979'
+        color: "primary"
         text_color_light: true
 ---
