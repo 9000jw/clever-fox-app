@@ -4,6 +4,16 @@ date: 2023-12-01
 share: false
 type: landing
 sections:
+- cover:
+  image: "cover.jpg"      # Optional if using auto-detection
+  style: "gradient"       # gradient | glass | blur | default
+  icon:
+    name: "📊"            # Emoji or icon name
+  position:
+    x: 50                 # Focus point X (0-100%)
+    y: 50                 # Focus point Y (0-100%)
+
+    
 - block: features
   content:
     title: Hausarbeiten
