@@ -108,7 +108,7 @@ sections:
         Eine weitere Tradition, die sich bis heute hält fand 30 Jahre später im Jahre 1992 ihren Anfang. In diesem Jahr wurden zu ersten Mal im Sommer eine Cocktailparty und als Gegengewicht im Winter die große Feuerzangenbowle veranstaltet. Diese Events werden seitdem Jahr für Jahr im T39 gefeiert.
         Seine charakteristische blaue Farbe erhielt das T39 erst im Jahre 1997. Zwei Jahre später startete mit dem Anschluss an das Hochschulnetz die digitale Revolution. Unseren ökologischen Fußabdruck konnten wir mit der Installation einer Solarthermieanlage auf unserem Dach im Jahr 2009 verbessern.
         Im Jahr 1954 ging der damalige Vermieter in Privatinsolvenz und das Haus wurde Zwangsversteigert. Die Evangelische Kirche entschloss sich dazu, die Immobilie zu erwerben und bekam bei der Versteigerung 1956 den Zuschuss. Das T39 ging für 7000 DM und 3000 DM Gebühren in den Besitz der Landeskirche über.
-        <img src="versteigerung.jpg" alt="versteigerung" width="800" />
+        <img src="blue fassade.jpg" alt="versteigerung" width="800" />
 
         <h2>Das T39 heute</h2>  
 
