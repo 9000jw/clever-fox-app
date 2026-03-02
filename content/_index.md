@@ -116,7 +116,15 @@ sections:
       primary_action:
         text: Los geht's
         url: bewerbung/
-    design:
-      css-class: "bg-primary-600"
+    background:
+        color: "indigo"
+        image:
+          # Add your image background to `assets/media/`.
+          filename: blaueshaus.jpg
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: false
 
 ---
