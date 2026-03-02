@@ -94,6 +94,8 @@ sections:
     id: historie
     content:
       title: Historie des T39
+      image:
+        filename: Versteigerung.jpg
       text: |- 
         <h2>Gründung in den 50er Jahren</h2>  
 
