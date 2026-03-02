@@ -29,6 +29,10 @@ sections:
       design:
         columns: "2"
         css-class: "bg-primary-200"
+        spacing:
+          margin: 2 rem
+        container: fixed
+        align: center
 
   - block: cta-card
     content:
