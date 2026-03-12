@@ -1,7 +1,7 @@
 ---
 title: Jahrfeier
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
+summary: Als großes Event finden alle fünf Jahre unsere Jubiläumsfeiern statt. Dazu werden alle ehemaligen Bewohner des T39 kontaktiert und eingeladen. Üblicherweise dauert das Event zwei Tage.
+date: 2025-05-17
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -16,6 +16,8 @@ tags:
   - jahrfeier
 ---
 
-Als großes Event finden alle fünf Jahre unsere Jubiläumsfeiern statt. Dazu werden alle ehemaligen Bewohner des T39 kontaktiert und eingeladen. Üblicherweise dauert das Event zwei Tage. Unsere 65-Jahr-Feier wurde am 25.04.2015 gefeiert. Dank großer Unterstützung von Seiten der RWTH, etwa durch die Schirmherrschaft des Kanzlers und der Hilfe durch das Alumni und Studentenwerk, stand uns für den Hauptteil der Feier der große Saal des Super C's zur Verfügung.
+Als großes Highlight finden alle fünf Jahre unsere Jubiläumsfeiern statt. Zu diesem Anlass werden alle ehemaligen Bewohner*innen des T39 kontaktiert und herzlich eingeladen. Das Event dauert zwei Tage und bringt viele Generationen des Hauses wieder zusammen.
 
-Die Aftershowparty sowie das morgentliche gemeinsame Frühstück fanden in den Räumlichkeiten der Mensa Academica statt. Neben Hausführungen, kleinen musikalischen und historischen Beiträgen ging es vor allem auch darum den Kontakt zwischen den verschiedenen Generationen im T39 zu halten, und sich gemeinsam daran zu erinnern wie einzigartig diese Art des Zusammenlebens ist.
+Unsere 75-Jahr-Feier fand am 17.05.2025 statt. Los ging es mit Sekt und Kuchen im schönen Hintergarten der ESG Aachen, gefolgt von einem gemeinsamen Spaziergang auf den Lousberg. Abends wurde das Essen mit dem eigenen Kochkunst der Mitbewohnis groß serviert.
+
+Das gemeinsame Frühstück am nächsten Morgen fanden in den Räumlichkeiten der Mensa Academica statt. Neben Hausführungen sowie kleinen musikalischen und historischen Beiträgen stand vor allem eines im Mittelpunkt: den Kontakt zwischen den verschiedenen Generationen des T39 zu pflegen und gemeinsam daran zu erinnern, wie einzigartig diese Form des Zusammenlebens ist.
