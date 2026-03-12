@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hausverwaltung
+title: HV
 
 # Name pronunciation (optional)
 # name_pronunciation: 
